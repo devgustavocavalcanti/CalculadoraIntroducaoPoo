@@ -13,7 +13,7 @@ public static void main(String[] args) {
 	Locale.setDefault(Locale.US);
 	boolean isContinuar = false;
 	char resp;
-	do {
+	do { 
 	 System.out.println("--------Bem Vindo--------");
 	 System.out.println("O que deseja realizar");
 	 System.out.println("1------Adição");
