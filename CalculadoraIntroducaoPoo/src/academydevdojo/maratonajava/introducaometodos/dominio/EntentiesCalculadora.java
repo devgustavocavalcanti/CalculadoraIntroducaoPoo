@@ -2,7 +2,7 @@ package academydevdojo.maratonajava.introducaometodos.dominio;
 
 import java.util.Scanner;
 import java.util.Locale;
-public class Calculadora {
+public class EntentiesCalculadora {
 	public double valor1;
 	public double valor2;
 	public double result;
